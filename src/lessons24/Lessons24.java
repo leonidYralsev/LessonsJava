@@ -1,3 +1,5 @@
+package lessons24;
+
 /**
  * Класс Object и метод toString()
  */

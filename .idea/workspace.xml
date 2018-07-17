@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1ffb7e-563a-43ea-ad06-213d6cf26a35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lessons24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons24.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e1ffb7e-563a-43ea-ad06-213d6cf26a35" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -169,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531814740132</updated>
-      <workItem from="1531814745261" duration="1401000" />
+      <workItem from="1531814745261" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="Java lessons">
       <created>1531815360076</created>
@@ -182,11 +180,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1401000" />
+    <option name="totallyTimeSpent" value="1698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -198,8 +195,8 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32621083" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32621083" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09127517" />
